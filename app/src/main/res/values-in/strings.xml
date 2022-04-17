@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Github User</string>
+    <string name="searching">Mencari</string>
+    <string name="user_name">Nama user</string>
+    <string name="detailinfo">Informasi</string>
+    <string name="username">Nama user</string>
+    <string name="pp">Foto profil</string>
+    <string name="fullname">Nama lengkap</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="repost">Repost</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name ="start_searching">Mulailah mencari sekarang!</string>
+    <string name = "loading">Memuat...</string>
+    <string name="favorit">Tambahkan ke Favorit</string>
+    <string name="settings">Pengaturan</string>
+    <string name="dark">Beralih ke Mode Gelap</string>
+    <string name="tab_1">Mengikuti</string>
+    <string name="tab_2">Pengikut</string>
+    <string name="your_favorite">Favorit</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="delete_data">Data telah dihapus</string>
+    <string name="add_favorit">Ditambahkan ke favorit</string>
+    <string name="delete_favorit">Dihapus dari favorit</string>
+
+    <string name = "change_language_settings">Pengaturan ganti bahasa</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github 앱 사용자</string>
+    <string name="searching">수색</string>
+    <string name="user_name">사용자 이름</string>
+    <string name="detailinfo">정보</string>
+    <string name="username">정보</string>
+    <string name="pp">프로필 사진</string>
+    <string name="fullname">성명</string>
+    <string name="location">위치</string>
+    <string name="company">회사</string>
+    <string name="repost">저장소</string>
+    <string name="followers">추종자</string>
+    <string name="following">수행원</string>
+    <string name ="start_searching">지금 검색을 시작하세요!</string>
+    <string name = "loading">로딩중...</string>
+    <string name="favorit">즐겨 찾기에 추가</string>
+    <string name="tab_1">수행원</string>
+    <string name="tab_2">추종자</string>
+    <string name="settings">설정</string>
+    <string name="dark">다크 모드로 전환</string>
+    <string name="delete_data">이미 삭제 된 데이터</string>
+    <string name="add_favorit">즐겨 찾기에 추가</string>
+    <string name="delete_favorit">즐겨 찾기에서 삭제</string>
+
+    <string name="your_favorite">즐겨 찾기</string>
+    <string name="no_data">데이터 없음</string>
+
+    <string name = "change_language_settings">언어 설정 변경</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Benutzer der Github-App</string>
+    <string name="searching">Suchen</string>
+    <string name="user_name">Nutzername</string>
+    <string name="detailinfo">Information</string>
+    <string name="username">Nutzername</string>
+    <string name="pp">Nutzername</string>
+    <string name="fullname">Vollständiger Name</string>
+    <string name="location">Ort</string>
+    <string name="company">Unternehmen</string>
+    <string name="repost">Repository</string>
+    <string name="followers">Anhänger</string>
+    <string name="following">Folgen</string>
+    <string name ="start_searching">Beginnen Sie jetzt mit der Suche!</string>
+    <string name = "loading">Wird geladen...</string>
+    <string name="favorit">Zum Favoriten hinzufügen</string>
+    <string name="settings">die Einstellungen</string>
+    <string name="no_data">Keine Daten</string>
+    <string name="delete_data">Daten bereits gelöscht</string>
+    <string name="add_favorit">Zu den Favoriten hinzufügen</string>
+    <string name="delete_favorit">Aus Favorit löschen</string>
+    <string name="tab_1">Folgen</string>
+    <string name="tab_2">Anhänger</string>
+    <string name="your_favorite">Favoriten</string>
+    <string name="dark">Wechseln Sie in den dunklen Modus</string>
+
+
+    <string name = "change_language_settings">Ändern Sie die Spracheinstellung</string>
+</resources>

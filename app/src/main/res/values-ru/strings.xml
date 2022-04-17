@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пользователи приложения Github</string>
+    <string name="searching">Поиск</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="detailinfo">Информация</string>
+    <string name="username">Имя пользователя</string>
+    <string name="pp">Изображение профиля</string>
+    <string name="fullname">Полное имя</string>
+    <string name="location">Расположение</string>
+    <string name="company">Компания</string>
+    <string name="repost">Репозиторий</string>
+    <string name="followers">Подписчики</string>
+    <string name="following">Следующий</string>
+    <string name ="start_searching">Начни поиск прямо сейчас!</string>
+    <string name = "loading">Загрузка...</string>
+    <string name="tab_1">Следующий</string>
+    <string name="tab_2">Подписчики</string>
+    <string name="favorit">Добавить в избранное</string>
+    <string name="settings">Настройки</string>
+    <string name="dark">Перейти в темный режим</string>
+    <string name="delete_data">Данные уже удалены</string>
+    <string name="your_favorite">Избранное</string>
+    <string name="no_data">Нет данных</string>
+    <string name="add_favorit">Добавьте в избранное</string>
+    <string name="delete_favorit">удалить из избранного</string>
+
+
+    <string name = "change_language_settings">Изменить настройку языка</string>
+</resources>
