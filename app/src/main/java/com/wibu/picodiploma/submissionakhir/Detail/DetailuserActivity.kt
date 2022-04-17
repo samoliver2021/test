@@ -115,7 +115,7 @@ class DetailuserActivity : AppCompatActivity(), View.OnClickListener {
     private fun loadDetail(username: String) {
         val client = AsyncHttpClient()
         val url = "https://api.github.com/users/$username"
-        client.addHeader("Authorization", "token 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")
+        client.addHeader("Authorization", "token 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")
         client.addHeader("User-Agent", "request")
 
 
