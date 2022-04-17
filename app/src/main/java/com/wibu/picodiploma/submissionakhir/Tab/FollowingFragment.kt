@@ -74,7 +74,7 @@ class FollowingFragment : Fragment() {
         tv_loadfollowing.visibility = View.VISIBLE
         val client = AsyncHttpClient()
         val url = "https://api.github.com/users/$username/following"
-        client.addHeader("Authorization", "token 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")
+        client.addHeader("Authorization", "token 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")
         client.addHeader("User-Agent", "request")
 
         client.get(url, object : AsyncHttpResponseHandler() {
